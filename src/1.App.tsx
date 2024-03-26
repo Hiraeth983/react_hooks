@@ -1,8 +1,7 @@
-import React from 'react';
 import {
   useState,
   useEffect
-} from './1.React';
+} from './React';
 
 function App() {
 
