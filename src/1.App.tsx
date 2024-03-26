@@ -2,7 +2,7 @@ import React from 'react';
 import {
   useState,
   useEffect
-} from './React';
+} from './1.React';
 
 function App() {
 
